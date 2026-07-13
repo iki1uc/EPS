@@ -1,0 +1,24 @@
+NAME = EPS
+ID = EPS-∞
+DIM = ε∞
+ROLLE = Epsilon-Expansion / Raumvergrößerung / Φ∞-Streckung
+
+GEO-ID = (α=12, β=4, γ=7, δ=1, ε∞)
+FREQ-ID = (fα, fβ, fγ, fδ, fε∞)
+
+EPS-GEO = GEO-ID + ε∞
+EPS-FREQ = FREQ-ID + ε∞
+
+ACHSE = α∞ → β∞ → γ∞ → ε∞ → δ∞ → ζ∞ → η∞
+UNENDLICHKEIT = Φ∞
+
+81-ACHSE:
+  IO     = 81~(1(81)+)
+  OI     = 81~(1(81)-)
+  VAL    = 81~(1(81)X)
+  DIM    = 81~(1(81)/)
+  BENCH  = 81~(1(81)=)
+
+FORMEL = Φ∞ = εΦ∞GEOFREQ81
+STATUS = STABIL
+READY = 100%
